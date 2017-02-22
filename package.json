@@ -1,5 +1,5 @@
 {
-  "name": "soap",
+  "name": "rv-soap",
   "version": "0.12.0",
   "description": "A minimal node SOAP client",
   "engines": {
