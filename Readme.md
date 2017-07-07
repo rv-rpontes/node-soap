@@ -588,4 +588,6 @@ describe('myService', function() {
 [gitter-image]: https://badges.gitter.im/vpulim/node-soap.png
 
 [coveralls-url]: https://coveralls.io/r/vpulim/node-soap
-[coveralls-image]: http://img.shields.io/coveralls/vpulim/node-soap/master.svg
+[coveralls-image]: http://img.shields.io/coveralls/vpulim/node-soap/master.svg 
+
+
